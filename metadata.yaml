@@ -1,5 +1,5 @@
 _repo: A-Unique-Story-of-a-Marvellous-Career-Life-of-Hon-Phineas-T-Barnum_1576
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Barnum''s American Museum'
 - !lcsh 'Circus owners -- United States -- Biography'
 - !lcsh 'Barnum, P. T. (Phineas Taylor), 1810-1891'
+- GITenberg
 title: 'A Unique Story of a Marvellous Career: Life of Hon. Phineas T. Barnum'
 url: http://www.gutenberg.org/ebooks/1576
